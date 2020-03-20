@@ -102,4 +102,4 @@ ENV/
 .vagrant
 
 spenv/*
-myshop/products/*
+myshop/media/*
