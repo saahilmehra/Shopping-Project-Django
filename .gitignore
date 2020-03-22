@@ -103,3 +103,4 @@ ENV/
 
 spenv/*
 myshop/media/*
+*.pdf
